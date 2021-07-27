@@ -1,2 +1,2 @@
 # AI_Lab
-CS2180
+CS2180 Artificial Intelligence Laboratory
